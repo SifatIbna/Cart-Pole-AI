@@ -1,4 +1,4 @@
-# Cart & Pool
+# Cart & Pole
 
 This project contains the solution of simple cart and pole problem. The problems description shorly as \
 *A pole is standing on a cart and The Task is to balance the pole by moving the cart right or left so that the pole doesn't fall and stays balanced*

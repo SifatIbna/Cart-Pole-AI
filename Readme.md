@@ -13,4 +13,4 @@ This approach knows as Deep Q Network. The idea was Feeding each frame to the ne
 
 After training the Agent , he completely learned how to balance the pole.
 
-![Image](Gif/cart-pole.gif)
+![Image](Gif/cartPole.gif)
